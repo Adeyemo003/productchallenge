@@ -17,14 +17,9 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
-- Web accessibility 
+- Mobile-first workflow 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 
 
@@ -35,6 +30,7 @@ Use this section to recap over some of your major learnings while working throug
 - Twitter - [dankid_terabyte](https://www.twitter.com/dankid_terabyte)
 
 ## Acknowledgments
-
 - Google
 - Stack Overflow
+
+![snip](https://user-images.githubusercontent.com/106268594/183526500-b46c5c9a-2aa5-4d7f-b9a1-7b5dcdb56e17.jpg)
