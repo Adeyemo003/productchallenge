@@ -60,7 +60,6 @@ main{
     align-items: center;
     justify-content: center;
     margin: 10px;
-    overflow: scroll;
 }
 
 /* the main flex container */
