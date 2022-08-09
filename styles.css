@@ -3,13 +3,15 @@
 }
 
 body{
-    margin: 0;
+    margin: 0; 
     background-color:  hsl(30, 38%, 92%);
-    padding: 1.25rem;
+    height: 100%;
+    min-height: 100% !important;
 }
  
 :root{
     font-size: 14px;
+    
 }
 
 
@@ -23,7 +25,7 @@ h1{
 p , .title , del{
     color: hsl(228, 12%, 48%);
     font-family: 'Montserrat', sans-serif;
-    font-weight: bolder;
+    font-weight: 700;
 }
 
 P{
@@ -31,7 +33,7 @@ P{
 }
 
 .details > span{
-    letter-spacing: 3px;
+    letter-spacing: 4px;
 }
 
 .table{
@@ -53,10 +55,12 @@ P{
 
 
 main{
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 10px;
+    overflow: scroll;
 }
 
 /* the main flex container */
@@ -118,16 +122,17 @@ button{
     cursor: pointer;
     background-color: hsl(158, 36%, 37%);
     transition: 0.3s;
-    display: flex;
+    /* display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 10px; */
 }
 
-button > div > a{
+button >  a{
     text-decoration: none;
     color: white;
-    font-weight: 900;
+    font-weight: 700;
+    margin-left: 0.5rem;
     font-size: 1rem;
     cursor: pointer;
     font-family: 'Montserrat', sans-serif;
