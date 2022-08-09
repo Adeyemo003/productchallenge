@@ -88,7 +88,7 @@ main{
 } 
 figure{
     margin:0;
-    height: 425.56px; 
+    height: 425.53px; 
     background-color: rgba(165, 158, 158, 0.562);
     
 }
@@ -106,7 +106,7 @@ figure{
         flex-shrink: 0;
         flex-basis: auto;
         width: 260px;
-        padding: 1rem; 
+        padding: 1.0624rem; 
         box-sizing: border-box;  
 }
 
